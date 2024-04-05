@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/FrenchGuys/KeyGenerator">
-    <img src="" alt="Logo" width="80" height="80">
+
   </a>
 
   <h3 align="center">Key Generator</h3>
@@ -35,9 +35,9 @@
 
 ## Built With
 
-Python 3.10
 
-* []()
+
+* Python 3.10 [Python](https://www.python.org/downloads/release/python-3100/)
 
 ## Getting Started
 
