@@ -29,7 +29,6 @@
 * [Getting Started](#getting-started)
   * [Installation](#installation)
 * [Usage](#usage)
-* [Contributing](#contributing)
 * [Authors](#authors)
 * [Acknowledgements](#acknowledgements)
 
@@ -67,5 +66,4 @@ This key generator tool provides a simple interface for generating cryptographic
 ## Acknowledgements
 
 * [FrenchGuys](https://github.com/FrenchGuys/)
-* []()
-* []()
+
