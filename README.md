@@ -61,7 +61,7 @@ This key generator tool provides a simple interface for generating cryptographic
 
 ## Authors
 
-* **FrenchGuys** - *Create the script* - [FrenchGuys](https://github.com/FrenchGuys) - *Create the script*
+* **FrenchGuys** - *Create the script*
 
 ## Acknowledgements
 
